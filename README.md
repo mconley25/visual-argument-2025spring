@@ -1,0 +1,1 @@
+Welcome to Maddie's Rhetorical Collage! 
