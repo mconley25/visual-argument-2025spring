@@ -11,3 +11,7 @@ Moving forward, my plan is to nail down one favorite/ eye-catching image and mem
 During workshop time I used the Fuzzy Select tool, fill bucket, and the layer mask tool in GIMP. Using these tools allowed me to remove the blue sky background and lay the image of the young woman lathering sunscreen on her arm on top of the new, sand background. 
 
 Then, I added text with the saying "The Risk Isn't Worth the Glow." At first, the white text up against the sand was difficult to read. So, I looked up a tutorial on how to add an outline to text. This was a level up moment for me because this was the first tool I learned how to use myself. I intentionally made the outline color red as a nod to a sunburn and what happens when an individual doesn't protect their skin. 
+
+**Draft 2/20:**
+
+Today I added more text. I included "Wear Your Sunscreen" under "The Risk Isn't Worth the Glow." While my audience may be able to infer that I want them to wear sunscreen, I decided to add this text just to make my argument extra clear. I also added a QR code to The Skin Cancer Foundation for more informaiton. This is a good call to action for the viewers of this collage. I feel I am ready to submit my draft for peer review. The biggest thing I am wondering about is if the text feels too simple and or immature for such a serious topic like skin cancer. I intentionally made the collage vibrant and trendy to make it appeal to Gen Z, so I almost didn't want it to be too dull or serious. 
