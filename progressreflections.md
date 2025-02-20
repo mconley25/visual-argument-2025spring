@@ -8,6 +8,6 @@ Moving forward, my plan is to nail down one favorite/ eye-catching image and mem
 
 **Draft: 2/19**
 
-During workshop time I used the Fuzzy Select tool, fill bucket, and the layer mask tool in GIMP. Using these tools allowed me to remove the blue sky background and lay the image of the young woman latering sunscreen on her arm on top of the new, sand background. 
+During workshop time I used the Fuzzy Select tool, fill bucket, and the layer mask tool in GIMP. Using these tools allowed me to remove the blue sky background and lay the image of the young woman lathering sunscreen on her arm on top of the new, sand background. 
 
 Then, I added text with the saying "The Risk Isn't Worth the Glow." At first, the white text up against the sand was difficult to read. So, I looked up a tutorial on how to add an outline to text. This was a level up moment for me because this was the first tool I learned how to use myself. I intentionally made the outline color red as a nod to a sunburn and what happens when an individual doesn't protect their skin. 
