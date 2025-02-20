@@ -1,7 +1,17 @@
-Welcome to Maddie's Rhetorical Collage! 
+**Welcome to Maddie's Visual Argument/ Rhetorical Collage!**
 
-I am at the very beginning of my rhetorical collage and am still playing around with many features on GIMP. On Feb. 17, I worked on creating at least two layers, adding in some text, and using tools like the selection and scale for my preview. 
+As someone who has had their fair share of painful sunburns, I have learned my lesson to lather up when it's sunny outside. 
 
-After experimenting with the GIMP software, I feel as though I may have been a little bit too ambitious with my proposal. I am considering using one main image and then playing around with the other tools and effects such as making certain words glow, adding in some texture (possibly blurring), and focusing on the other design principles rather than focusing on too many images. Doing so will help me stay mindful and not too overwhelmed about my design arrangement.
+**Did You Know?**
 
-Moving forward, my plan is to nail down one favorite/ eye-catching image and memorable saying so I can start playing around with design principles and hierarchy to make a detailed and empowering collage! 
+Our skin is the largest organ in the human body! Therefore, it's important that we take proactive measures to protect our skin starting at a very young age. 
+
+The sun is no joke. According to The Skin Cancer Foundation, "Having 5 or more sunburns **doubles** your risk for melanoma" ([Skin Cancer Facts](https://www.skincancer.org/skin-cancer-information/skin-cancer-facts/)). But it doesn't have to be this way! Avoiding a painful sunburn is possible by taking proactive measures like wearing a long sleeve t-shirt and hat when it's sunny outside, lathering on and reapplying sunscreen every few hours, and sitting under the shade.
+
+**The Risk Isn't Worth the Glow**
+
+My goal for this rhetorical collage is to infleunce young adults, particulary Gen Z, to protect their skin from the sun by reminding them the risk of not wearing sunscreen is simply not worth the glow of a golden tan or bright red sunburn. If we aren't careful, exposure to the sun can cause early aging and skin cancer. 
+
+So, the next time you visit the beach, or garden outside, or watch a baseball game on a hot, sunny day remeber:
+
+Wear your sunscreen, becasue the risk isn't worth the glow.  
