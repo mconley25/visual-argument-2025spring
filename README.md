@@ -12,6 +12,6 @@ The sun is no joke. According to The Skin Cancer Foundation, "Having 5 or more s
 
 My goal for this rhetorical collage is to infleunce young adults, particulary Gen Z, to protect their skin from the sun by reminding them the risk of not wearing sunscreen is simply not worth the glow of a golden tan or bright red sunburn. If we aren't careful, exposure to the sun can cause early aging and skin cancer. 
 
-So, the next time you visit the beach, or garden outside, or watch a baseball game on a hot, sunny day remeber:
+So, the next time you visit the beach, or garden outside, or watch a baseball game on a hot, sunny day remember: 
 
-Wear your sunscreen, becasue the risk isn't worth the glow.  
+Wear your sunscreen, becasue **the risk isn't worth the glow.**  
