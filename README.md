@@ -1,5 +1,7 @@
 **Welcome to Maddie's Visual Argument/ Rhetorical Collage!**
 
+For peer review: Click on Visual Rhet Image Preview.xcf file
+
 As someone who has had their fair share of painful sunburns, I have learned my lesson to lather up when it's sunny outside. 
 
 **Did You Know?**
