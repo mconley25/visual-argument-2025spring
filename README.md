@@ -1,4 +1,4 @@
-**Welcome to Maddie's Visual Argument/ Rhetorical Collage!**
+**The Risk Isn't Worth the Glow: Wear Sunscreen**
 
 
 

@@ -15,3 +15,7 @@ Then, I added text with the saying "The Risk Isn't Worth the Glow." At first, th
 **Draft 2/20:**
 
 Today I added more text. I included "Wear Your Sunscreen" under "The Risk Isn't Worth the Glow." While my audience may be able to infer that I want them to wear sunscreen, I decided to add this text just to make my argument extra clear. I also added a QR code to The Skin Cancer Foundation for more informaiton. This is a good call to action for the viewers of this collage. I feel I am ready to submit my draft for peer review. The biggest thing I am wondering about is if the text feels too simple and or immature for such a serious topic like skin cancer. I intentionally made the collage vibrant and trendy to make it appeal to Gen Z, so I almost didn't want it to be too dull or serious. 
+
+**Applying Feedback for Final 2/26:**
+
+In response to my peers feedback, I have decided to change my call to action text because it was too hard to read against the sand background. To fix this, I added a thicker outline to the text and changed the font from Times New Roman Bold Italics to Sans Serif. I think this font is better because it matches the main text better and it is easier to read. I feel like I am satisfied with my final project and it meets the basline criteria as well as aspirational elements like adding a QR code and playing with tools beyond move and text. 
