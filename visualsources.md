@@ -19,3 +19,11 @@ Sheedy, Sarah. "A Woman Wearing a Blue Hat." Unsplash, 2 Aug. 2023, https://unsp
 Han, Daryl. "A Close-up of a White Surface." Unsplash, 6 Nov. 2022, https://unsplash.com/photos/a-close-up-of-a-white-surface-7XLAltEPCgA. 
 
 Nilov, Mikhail. "A Woman Applying Sunscreen on Arm." Pexels, 25 Apr. 2021, https://www.pexels.com/photo/a-woman-applying-sunscreen-on-arm-8157145/. 
+
+**Final Draft 2/28:**
+
+Han, Daryl. "A Close-up of a White Surface." Unsplash, 6 Nov. 2022, https://unsplash.com/photos/a-close-up-of-a-white-surface-7XLAltEPCgA. 
+
+Nilov, Mikhail. "A Woman Applying Sunscreen on Arm." Pexels, 25 Apr. 2021, https://www.pexels.com/photo/a-woman-applying-sunscreen-on-arm-8157145/. 
+
+"Skin Cancer Information." Skin Cancer Foundation, https://www.skincancer.org/. (This is the website attached to the QR code)
